@@ -24,7 +24,7 @@ jobs:
       run: dotnet publish -c Release -r win-x64 /p:PublishSingleFile=true /p:SelfContained=true -o publish
 
     - name: Upload EXE artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: EbayDesk-Windows-Release
         path: publish/EbayDesk.exe
