@@ -1,0 +1,5 @@
+C:\eBaySyncBot\Nuova cartella\EbayDeskDotNet_Final\obj\Release\net8.0-windows\win-x64\EbayDeskDotNet_Final.csproj.AssemblyReference.cache
+C:\eBaySyncBot\Nuova cartella\EbayDeskDotNet_Final\obj\Release\net8.0-windows\win-x64\EbayDeskDotNet_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\eBaySyncBot\Nuova cartella\EbayDeskDotNet_Final\obj\Release\net8.0-windows\win-x64\EbayDeskDotNet_Final.AssemblyInfoInputs.cache
+C:\eBaySyncBot\Nuova cartella\EbayDeskDotNet_Final\obj\Release\net8.0-windows\win-x64\EbayDeskDotNet_Final.AssemblyInfo.cs
+C:\eBaySyncBot\Nuova cartella\EbayDeskDotNet_Final\obj\Release\net8.0-windows\win-x64\EbayDeskDotNet_Final.csproj.CoreCompileInputs.cache
