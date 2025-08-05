@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
     <AssemblyName>EbayDesk</AssemblyName>
     <RootNamespace>EbayDesk</RootNamespace>
-    <ApplicationIcon>app.ico</ApplicationIcon>
+    <!-- Rimosso ApplicationIcon per evitare errori risorse Win32 -->
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="LiteDB" Version="5.0.17" />
