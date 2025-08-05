@@ -1,10 +1,10 @@
-using System;
 using System.Timers;
+using System;
 using EbayDesk.Core;
 
 namespace EbayDesk.Tasks {
   public class SchedulerService : IDisposable {
-    private readonly Timer _timer;
+    private readonly System.Timers.Timer _timer;
     private readonly Storage _store;
     private readonly AppConfig _cfg;
     private readonly Runner _runner;
